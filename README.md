@@ -1,4 +1,4 @@
-👋 Hi, I'm [Avinask0]
+👋 Hi, I'm Avinask0
 
 🚀 Welcome to my GitHub profile!
 
