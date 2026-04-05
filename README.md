@@ -10,7 +10,9 @@
 
 💡 About the Project
 
-- Shows all relevant data needed to see before market opens in one page. Gold,USDINR,US FUTURES ,GIFT NIFTY, CRUDE ,ETC
+- Shows all relevant data needed to see before market opens in one page. Gold,USDINR,US FUTURES ,GIFT NIFTY, CRUDE ,ETc
+- Have all financial calculators
+- And a special stock dashboard where a unique reason engine which shows the stock movement reason under development. 
 
 - Built using [your tech: Python / HTML]
 
