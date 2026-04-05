@@ -14,6 +14,6 @@
 - Have all financial calculators
 - And a special stock dashboard where a unique reason engine which shows the stock movement reason under development. 
 
-- Built using [your tech: Python / HTML]
+- Built using: Python / HTML .
 
 
