@@ -9,12 +9,6 @@
 💡 About the Project
 
 - This is my awesome project
-- Built using [your tech: React / HTML / Node]
+- Built using [your tech: Python / HTML]
 
-📸 Preview
 
-(Add screenshots here if you want)
-
-📫 Contact
-
-- Email: your@email.com
