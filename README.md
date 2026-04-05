@@ -4,7 +4,7 @@
 
 🌐 My Project
 
-🔗 Live Demo: https://your-website-link.com
+🔗 Live Demo: https://scripttick.live
 
 💡 About the Project
 
