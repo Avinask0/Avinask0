@@ -12,7 +12,7 @@
 
 - Shows all relevant data needed to see before market opens in one page. Gold,USDINR,US FUTURES ,GIFT NIFTY, CRUDE ,ETC
   
-- Have all financial calculators
+- Have all financial calculators.
   
 - And a special stock dashboard where a unique reason engine which shows the stock movement reason under development. 
 
