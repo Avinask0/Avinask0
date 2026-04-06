@@ -2,7 +2,7 @@
 
 🚀 Welcome to my GitHub profile!
 
-🌐 My Project
+🌐 My Project 1.
 
 🔗 Live Demo: https://scripttick.live
 
@@ -18,4 +18,7 @@
 
 - Built using: Python / HTML .
 
+🌐 My Project 2.
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://avinask0.github.io/LOOP-COIN/)
 
