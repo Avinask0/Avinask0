@@ -22,3 +22,8 @@
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://avinask0.github.io/LOOP-COIN/)
 
+💡 About the Project.
+
+- A ERC 20 Token created on Polygon Chain.
+- Wallet Create ,Login and transfer functionality.
+  
