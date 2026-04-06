@@ -10,11 +10,11 @@
 
 💡 About the Project
 
-- Shows all relevant data needed to see before market opens in one page. Gold,USDINR,US FUTURES ,GIFT NIFTY, CRUDE ,ETC
+- Shows all relevant data needed to be see before market opens in one page. Gold,USDINR,US FUTURES ,GIFT NIFTY, CRUDE ,ETC
   
 - Have all financial calculators.
   
-- And a special stock dashboard where a unique reason engine which shows the stock movement reason under development. 
+- Have a special stock dashboard where a unique reason engine shows bout the stock movement reason (under development). 
 
 - Built using: Python / HTML .
 
@@ -26,4 +26,16 @@
 
 - A ERC 20 Token created on Polygon Chain.
 - Wallet Create ,Login and transfer functionality.
-  
+
+
+🌐 My Project 3.
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://eve-eight-omega.vercel.app/)
+
+💡 About the Project.
+
+-An unfinished Project.
+
+-Have google login functionality. 
+
+-And cloud database storage.
