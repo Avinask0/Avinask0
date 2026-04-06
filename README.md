@@ -4,6 +4,8 @@
 
 🌐 My Project 1.
 
+Scripttick.live
+
 🔗 Live Demo: https://scripttick.live
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://scripttick.live)
@@ -20,6 +22,8 @@
 
 🌐 My Project 2.
 
+Loop Coin
+
 [![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://avinask0.github.io/LOOP-COIN/)
 
 💡 About the Project.
@@ -29,6 +33,8 @@
 
 
 🌐 My Project 3.
+
+Eve
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://eve-eight-omega.vercel.app/)
 
