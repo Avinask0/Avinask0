@@ -45,3 +45,18 @@ Eve
 -Have google login functionality. 
 
 -And cloud database storage.
+
+
+🌐 My Project 4.
+
+ALTA
+
+-An self learning ai traing bot.
+-under development
+
+
+🌐 My Project 5.
+
+D A S I  
+
+-AI
