@@ -52,6 +52,7 @@ Eve
 ALTA
 
 -An self learning ai trading bot.
+
 -under development
 
 
