@@ -34,6 +34,27 @@ Loop Coin
 
 🌐 My Project 3.
 
+Void CRM
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://www.scripttick.live/crm/)
+
+💡 About the Project.
+
+- A customer relationship management (CRM) platform with an interactive dashboard.
+- Google Sheets integration for importing and managing customer data.
+- Customer management with search, filtering and sorting.
+- Kanban pipeline with drag-and-drop customer stages.
+- Customer interaction tracking, call logs and notes.
+- Direct Call and WhatsApp shortcuts.
+- Follow-up management with overdue tracking.
+- Google Calendar integration for meeting scheduling and daily planning.
+- Customer analytics and performance insights.
+- Responsive interface for desktop and mobile.
+- Built with HTML, CSS and JavaScript, integrated with Google APIs.
+
+
+🌐 My Project 4.
+
 Eve
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://eve-eight-omega.vercel.app/)
@@ -47,7 +68,7 @@ Eve
 -And cloud database storage.
 
 
-🌐 My Project 4.
+🌐 My Project 5.
 
 ALTA
 
@@ -56,13 +77,13 @@ ALTA
 -under development
 
 
-🌐 My Project 5.
+🌐 My Project 6.
 
 D A S I  
 
 -AI
 
-🌐 My Project 6.
+🌐 My Project 7.
 
 VERMILLION
 
